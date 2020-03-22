@@ -9,7 +9,7 @@
     "@testing-library/react": "^9.4.0",
     "@testing-library/user-event": "^7.2.1",
     "axios": "^0.19.2",
-    "dayjs": "^1.8.20",
+    "dayjs": "^1.8.21",
     "jwt-decode": "^2.2.0",
     "live-server": "^1.2.1",
     "notistack": "^0.9.7",
